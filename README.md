@@ -19,7 +19,8 @@ project-name/
 ## 📚 Projects Included
 
 - 🎨 Hirst Dot Painting — Turtle graphics, loops, modulo
-
+- 🧮 Calculator - With operators and cli
+  
 More projects will be added as I continue learning.
 
 ## 🎯 Purpose

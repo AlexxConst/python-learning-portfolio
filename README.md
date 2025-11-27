@@ -19,9 +19,6 @@ project-name/
 ## 📚 Projects Included
 
 - 🎨 Hirst Dot Painting — Turtle graphics, loops, modulo
-- 🃏 Blackjack — functions, game logic, random module
-- 🔼 Higher or Lower — dictionaries, loops, comparison logic
-- ⭐ Turtle Shapes — drawing with `turtle`, coordinates, movement
 
 More projects will be added as I continue learning.
 
